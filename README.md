@@ -1,2 +1,2 @@
-# myshell2
+# myshell
 myshell
